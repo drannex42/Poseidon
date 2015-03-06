@@ -235,6 +235,10 @@ article h1{
 	font-family: 'Lato', sans-serif !important;
 }
 
+.indexH1 {
+    	padding-bottom:30px;
+}
+
 article h1 a{
 	color:#333;
 	font-size:36px;
