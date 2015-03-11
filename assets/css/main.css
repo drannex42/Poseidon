@@ -389,7 +389,13 @@ article pre *{
 }
 
 article hr{
-	margin-bottom:30px;
+  width: 15%;
+  height: 2px;
+  background: #007aff;
+  margin-left: 44%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 25%;
 }
 
 .pagination{
